@@ -3,7 +3,7 @@ Simple multipoint communication protocol using RS-485 for Arduino.
 
 This library implements simple communication protocol for multiple devices connected to serial [RS-485](https://en.wikipedia.org/wiki/RS-485) port. It includes addressing, error detection and simultaneous transmission prevention.
 
-Tested on Arduino Uno and Arduino Nano.
+Tested on Arduino Uno and Arduino Nano. Python implementation [here](https://github.com/rzeman9/pySimple485).
 
 ## Basic Usage
 
